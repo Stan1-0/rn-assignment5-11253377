@@ -1,4 +1,3 @@
-import { BottomTabBar, createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 
 const Tab = createBottomTabNavigator
 
@@ -13,4 +12,4 @@ function MyTabs () {
     );
 }
 
-export default tabs;
+export default MyTabs;
